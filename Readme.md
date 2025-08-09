@@ -34,7 +34,7 @@ We created a **17,588-image** dataset by combining:
 
 ## 🧠 Model Selection & Training
 
-We evaluated YOLOv5, YOLOv8n, SSD, Faster R-CNN, EfficientDet, and RetinaNet.  
+We evaluated YOLOv5, YOLOv8n, Faster R-CNN, EfficientDet, and RetinaNet.  
 **YOLOv8n** was chosen for:
 - High inference speed on Raspberry Pi
 - Small model size
@@ -80,8 +80,8 @@ We benchmarked multiple formats for inference speed:
 
 ---
 
-## 📸 Project Demo
-*(Add images or GIFs of the robot in action here)*
+<!-- ## 📸 Project Demo
+*(Add images or GIFs of the robot in action here)* -->
 
 ---
 
@@ -99,15 +99,15 @@ We benchmarked multiple formats for inference speed:
 
 ---
 
-## 📜 License
+<!-- ## 📜 License
 This project is released under the MIT License – feel free to use, modify, and share.
 
----
+--- -->
 
-## 🤝 Contributors
+<!-- ## 🤝 Contributors
 - **Shantanu Shirsath**  
 - **Aakash Deshpande**  
 
-University of Siegen
+University of Siegen -->
 
 ---
